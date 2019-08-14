@@ -1,4 +1,4 @@
-#Using Javascript, Html and CSS
+## Using Javascript, Html and CSS
 # Guess the number game
 
 
